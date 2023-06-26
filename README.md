@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHITRANSH SHRIVASTAVA</h1>
 <h3 align="center">To work in a dynamic professional environment with a growing organization and utilize my skills and innovative thinking for benefit of the organization and myself.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif"
 /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitransh23&label=Profile%20views&color=0e75b6&style=flat" alt="chitransh23" /> </p>
