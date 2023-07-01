@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHITRANSH SHRIVASTAVA</h1>
 <h3 align="center">To work in a dynamic professional environment with a growing organization and utilize my skills and innovative thinking for benefit of the organization and myself.</h3>
-<img align="right" alt="coding" width="500" src="https://i0.wp.com/i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif"
-/> 
+<img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif?cid=6c09b952tf6xtt0mqgzkarax1ir348qz0j13do8jz59g7lo2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitransh23&label=Profile%20views&color=0e75b6&style=flat" alt="chitransh23" /> </p>
 
